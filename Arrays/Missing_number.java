@@ -1,3 +1,4 @@
+package Arrays;
 public class Missing_number {
 
     static int findMissingNumberInArray(int[] arr) {

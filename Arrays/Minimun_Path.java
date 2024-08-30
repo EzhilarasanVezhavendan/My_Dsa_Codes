@@ -1,6 +1,7 @@
+package Arrays;
 
 import java.util.Scanner;
-
+//find a minimum path 
 public class Minimun_Path{
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
