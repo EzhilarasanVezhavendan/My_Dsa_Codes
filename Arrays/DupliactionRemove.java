@@ -16,7 +16,7 @@ Failed: 0, Passed: 1 of 1 tests
 testExercise
 Your code passed this test
 Coding Exercise*/
-
+//BRUTE FORCE 
 import java.util.*;
 public class DupliactionRemove{
   public static int[] removeDuplicates(int[] arr) {
